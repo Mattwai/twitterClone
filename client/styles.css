@@ -2,7 +2,7 @@
     text-align:center;
 }
 
-.name-form {
+.name-form, .loading {
     width: 50%;
     margin: 0 auto;
 }
@@ -10,3 +10,9 @@
 .loading {
     text-align: center;
 }
+
+
+.messages {
+    width: 80%;
+    margin: 0 auto;
+  }
